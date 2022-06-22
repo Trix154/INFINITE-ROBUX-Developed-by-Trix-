@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "orbsmod:Orb1",
+      "data": 0
+    },
+    {
+      "item": "orbsmod:Orb4",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "orbsmod:Orb8",
+    "data": 0,
+    "count": 1
+  }
+}

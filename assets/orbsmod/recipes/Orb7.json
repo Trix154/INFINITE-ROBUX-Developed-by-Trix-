@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "IOI",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot",
+      "data": 0
+    },
+    "O": {
+      "item": "orbsmod:Orb1",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "orbsmod:Orb7",
+    "data": 0,
+    "count": 1
+  }
+}
