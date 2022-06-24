@@ -1,1 +1,0 @@
-start fat.png
